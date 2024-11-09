@@ -33,7 +33,7 @@ function AboutMe() {
         {/* Image Section */}
         <div className="md:w-1/2 mt-8 md:mt-0 md:pl-8 flex justify-center md:justify-end">
           <img
-            src="path_to_your_image.jpg"
+            src="/src/assets/daniel wk.jpg"
             alt="Danniel Adeleke"
             className={`w-48 h-48 rounded-full object-cover shadow-lg ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'} transition-all duration-1000 ease-in-out`}
           />
